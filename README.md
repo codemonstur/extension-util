@@ -11,7 +11,7 @@ General utilities
 ```xml
 <dependency>
   <groupId>com.github.codemonstur</groupId>
-  <artifactId>extension-undertow</artifactId>
+  <artifactId>extension-util</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```
